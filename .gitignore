@@ -1,2 +1,4 @@
 vision
 vision/
+.env
+env
